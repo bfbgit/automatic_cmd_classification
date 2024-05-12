@@ -1,3 +1,7 @@
+---
+
+---
+
 # automatic_cmd_classification
 ### Title： An automatic coronary microvascular dysfunction classification method based on hybrid ECG features and expert features
 
@@ -7,7 +11,7 @@
 
 ------
 
-<img src="C:\Users\bianfeibiao\Documents\project\automatic_cmd_classification\figures\main.png" alt="main" style="zoom:50%;" />
+<img src=".\figures\main.png" alt="main" style="zoom:50%;" />
 
 
 
